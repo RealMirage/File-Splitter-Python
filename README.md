@@ -7,7 +7,7 @@ Arguments:
 
 	--help : Lists all arguments and definitions.
   
-	--input: File Path for file to split (e.g. C:\ProjectData\FileSplitter\ProductSalesToSplit.txt)
+	--input: File Path for file to split (e.g. C:\ProjectData\FileSplitter\SamplePipeFile.txt)
  	
 	--delim: Input file delimiter (e.g. \t or | or ,)
   
