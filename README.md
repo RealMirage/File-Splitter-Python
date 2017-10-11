@@ -18,4 +18,4 @@ Arguments:
   
  Example execution:
   
-	C:\Users\MyUser\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/MyUser/PythonProjects/FileSplitter/FileSplitter.py --input "C:\ProjectData\FileSplitter\ProductSalesToSplit.txt" --delim "|" --column 0 --skip 1
+	C:\Users\MyUser\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/MyUser/PythonProjects/FileSplitter/FileSplitter.py --input "C:\ProjectData\FileSplitter\SamplePipeFile.txt" --delim "|" --column 0 --skip 1
