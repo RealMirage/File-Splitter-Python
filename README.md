@@ -9,7 +9,7 @@ Arguments:
   
 	--input: File Path for file to split (e.g. C:\ProjectData\FileSplitter\ProductSalesToSplit.txt)
  	
-	--delim: Input file delimiter (e.g. |)
+	--delim: Input file delimiter (e.g. \t or | or ,)
   
 	--column: Column index to split on, indexed at 0.
   
